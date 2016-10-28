@@ -1,0 +1,32 @@
+{
+  "name": "karma-this",
+  "version": "1.0.0",
+  "description": "Some test karma",
+  "main": "dist/bundle.min.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular": "^1.5.17",
+    "angular": "^1.5.8",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "jasmine": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "~1.0.2",
+    "karma-phantomjs2-launcher": "~0.5.0",
+    "karma-remap-coverage": "^0.1.2",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^1.8.0",
+    "path": "^0.12.7",
+    "phantomjs": "^2.1.7",
+    "ts-loader": "^0.9.5",
+    "typescript": "^2.0.6",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.3",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
